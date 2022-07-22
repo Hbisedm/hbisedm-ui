@@ -1,0 +1,21 @@
+{
+  "name": "hbisedm-ui",
+  "version": "1.0.1",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "files": [
+    "es",
+    "lib"
+  ],
+  "keywords": [
+    "hbisedm-ui",
+    "vue3组件库"
+  ],
+  "author": "hbisedm",
+  "license": "MIT",
+  "description": "",
+  "typings": "lib/index.d.ts"
+}
